@@ -1,0 +1,25 @@
+1. Condizioni in cui l'energia meccanica si conserva (Penny)
+2. Definizione forza conservativa (Penny)
+3. Dimostrare che il lavoro della forza di gravità è nullo (Penny)
+4. Teorema delle forze vive (Penny)
+5. Conservazione dell'energia meccanica (Penny)
+6. Legge orario del moto uniformemente accelerato con DIMOSTRAZIONE (Fazio)
+7. Primo principio della termodinamica + Primo principio della Termodinamica associato alle trasformazioni (Penny)
+8. Moto parabolico
+9. Momento di inerzia per massa puntiforme e per massa estesa
+10. Condizioni affinchè un corpo sia in equilibrio
+11. Calore specifico
+12. Impulso
+13. Oscillatore armonico
+14. Lavoro in Termodinamica
+15. Energia Elastica
+16. Forza conservativa
+17. Forza Elastica
+18. Calore latente di fusione
+19. Momento torcente
+20. Accelerazione centripeta
+21. Classificazione degli urti
+22. Gas Perfetti
+23. Perchè si dice moto parabolico?
+24. Momento della Quantità
+
